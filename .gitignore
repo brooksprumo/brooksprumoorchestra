@@ -18,3 +18,7 @@
 # ignore vim's netrwhist
 #
 .netrwhist
+
+# ignore jekyll build files
+#
+_site/*
