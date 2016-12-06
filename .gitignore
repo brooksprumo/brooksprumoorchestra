@@ -1,3 +1,7 @@
 # ignore jekyll build files
 #
 _site/*
+
+# ignore Gemfile.lock
+#
+Gemfile.lock
