@@ -1,5 +1,4 @@
-Friends of the Brooks Prumo Orchestra
-=====================================
+# Friends of BPO
 
 There are a number of people and bands that have supported the Brooks Prumo Orchestra.  Please support them too!
 
