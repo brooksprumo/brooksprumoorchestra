@@ -3,6 +3,7 @@
 There are a number of people and bands that have supported the Brooks Prumo Orchestra.  Please support them too!
 
 - Adam Lee of [L.A. Swing Barons](http://www.swingbarons.com/)
+- [Albanie Falletta](http://albaniefalletta.bandcamp.com/)
 - Craig Gildner's [Blue Sky 5](http://www.bluesky5.com/) and [Big Band](http://www.cgbigswing.com/)
 - [Jonathan Doyle's](http://www.jonathandoylemusic.com/) Swingtet and Quintet
 - [Jonathan Stout](http://www.campusfive.com/) and his bands
