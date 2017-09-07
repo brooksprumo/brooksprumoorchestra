@@ -1,0 +1,31 @@
+/* BPO colors: bright red */
+.theme-bpo-red .sidebar {
+  background-color: #c60751;
+}
+.theme-bpo-red .content a,
+.theme-bpo-red .related-posts li a:hover {
+  color: #c60751;
+}
+
+/* BPO colors: light blue */
+.theme-bpo-lightblue .sidebar {
+  background-color: #0077c0;
+}
+.theme-bpo-lightblue .content a,
+.theme-bpo-lightblue .related-posts li a:hover {
+  color: #0077c0;
+}
+
+/* BPO colors: dark blue */
+.theme-bpo-darkblue .sidebar {
+  background-color: #00235d;
+}
+.theme-bpo-darkblue .content a,
+.theme-bpo-darkblue .related-posts li a:hover {
+  color: #00235d;
+}
+
+/* About section */
+.sidebar-about h1 {
+  font-size: 2.75rem;
+}

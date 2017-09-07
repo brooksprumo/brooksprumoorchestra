@@ -80,7 +80,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 2.75rem;
+  font-size: 3.25rem;
 }
 
 /* Sidebar nav */
@@ -175,39 +175,11 @@ a.sidebar-nav-item:focus {
  * within blog posts. To use, add the class of your choosing to the `body`.
  */
 
-/* BPO colors: bright red */
-.theme-bpo-red .sidebar {
-  background-color: #c60751;
-}
-.theme-bpo-red .content a,
-.theme-bpo-red .related-posts li a:hover {
-  color: #c60751;
-}
-
-/* BPO colors: light blue */
-.theme-bpo-lightblue .sidebar {
-  background-color: #0077c0;
-}
-.theme-bpo-lightblue .content a,
-.theme-bpo-lightblue .related-posts li a:hover {
-  color: #0077c0;
-}
-
-/* BPO colors: dark blue */
-.theme-bpo-darkblue .sidebar {
-  background-color: #00235d;
-}
-.theme-bpo-darkblue .content a,
-.theme-bpo-darkblue .related-posts li a:hover {
-  color: #00235d;
-}
-
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
-  background-color: #c60751;
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
