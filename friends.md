@@ -9,8 +9,8 @@ There are a number of people and bands that have supported the Brooks Prumo Orch
 - [Jonathan Stout](http://www.campusfive.com/) and his bands
 - Josh Collazo of [Candy Jacket Jazz Band](http://www.candyjacketjazzband.com/)
 - Laura Windley of [Mint Julep Jazz Band](https://mintjulepjazzband.com/)
-- [Michael Gamble and the Rhythm Serenaders](http://www.rhythmserenaders.com/)
-- Mike Faltesek of [Falty and the Defects](http://www.falty.com/faltyandthedefects)
+- [Michael Gamble & The Rhythm Serenaders](http://www.rhythmserenaders.com/)
+- Mike Faltesek of [Falty & The Defects](http://www.falty.com/faltyandthedefects)
 - Naomi Uyama of [Naomi & Her Handsome Devils](http://www.naomisdevils.com/)
 - Paul Cosentino of [Boilermaker Jazz Band](http://www.boilermakerjazzband.com/)
 - [Russ Wilson](http://www.everswinging.com/) and his bands
