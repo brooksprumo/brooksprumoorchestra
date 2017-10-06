@@ -3,8 +3,9 @@ layout: default
 title: Home
 ---
 
-[![Brooks Prumo Orchestra]({{ "/images/bpo_logo_400.jpg" | relative_url }})][BrooksPrumoOrchestraOnFacebook]
+We've released our first album, [**Pass The Bounce**][music link]! Check it out!
 
-Check out the Brooks Prumo Orchestra on [Facebook][BrooksPrumoOrchestraOnFacebook]
+[![Pass The Bounce][Pass The Bounce image]][music link]
 
-[BrooksPrumoOrchestraOnFacebook]: http://www.facebook.com/BrooksPrumoOrchestra "Brooks Prumo Orchestra on Facebook"
+[Pass The Bounce image]: {{ "/images/pass_the_bounce_cover.jpg" | relative_url }} "Buy Pass The Bounce here"
+[music link]: {{ "/music.html" | relative_url }}
