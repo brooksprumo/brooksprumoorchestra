@@ -2,7 +2,7 @@
 
 [![Pass The Bounce][Pass The Bounce image]][bandcamp link]
 
-We've release our first album, Pass The Bounce! You can get it here:
+We've released our first album, Pass The Bounce! You can get it here:
 
 - [Bandcamp][bandcamp link]
 - [Amazon][amazon link]
