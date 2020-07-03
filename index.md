@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-We've released our first album, [**Pass The Bounce**][music link]! Check it out!
+Head over the the [music page][music link] to check out our albums!
 
-[![Pass The Bounce][Pass The Bounce image]][music link]
+[![This Year's Kisses][TYK image]][music link]
 
-[Pass The Bounce image]: {{ "/images/pass_the_bounce_cover.jpg" | relative_url }} "Buy Pass The Bounce here"
+[TYK image]: {{ "/images/this_years_kisses_400.jpg" | relative_url }} "Buy This Year's Kisses here"
 [music link]: {{ "/music.html" | relative_url }}

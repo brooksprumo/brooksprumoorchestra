@@ -1,18 +1,26 @@
 # Music by BPO
 
-[![Pass The Bounce][Pass The Bounce image]][bandcamp link]
+## This Year's Kisses (2020)
+[![This Year's Kisses][TYK image]][TYK bandcamp link]
 
-We've released our first album, Pass The Bounce! You can get it here:
+## Pass The Bounce (2017)
+[![Pass The Bounce][PTB image]][PTB bandcamp link]
+
+### Other download and streaming options:
 
 - [Bandcamp][bandcamp link]
-- [iTunes & Apple Music][itunes link]
+- [Spotify][spotify link]
+- [Apple Music][apple link]
 - [Amazon][amazon link]
 - [Google][google link]
-- [Spotify][spotify link]
 
-[Pass The Bounce image]: {{ "/images/pass_the_bounce_cover.jpg" | relative_url }} "Buy Pass The Bounce here"
-[bandcamp link]: http://brooksprumoorchestra.bandcamp.com/album/pass-the-bounce
-[itunes link]: https://itunes.apple.com/us/album/pass-the-bounce/1325021458
-[amazon link]: http://a.co/95YIaey
-[google link]: https://play.google.com/store/music/album/Brooks_Prumo_Orchestra_Pass_The_Bounce?id=B4qyuntq7dgg3ehnxl7qqptgcsi
-[spotify link]: https://open.spotify.com/album/7tPMoHQ2fT7T3wcazFCwDQ
+
+[PTB bandcamp link]: http://brooksprumoorchestra.bandcamp.com/album/pass-the-bounce
+[PTB image]: {{ "/images/pass_the_bounce_400.jpg" | relative_url }} "Buy Pass The Bounce here"
+[TYK bandcamp link]: http://brooksprumoorchestra.bandcamp.com/album/this-years-kisses
+[TYK image]: {{ "/images/this_years_kisses_400.jpg" | relative_url }} "Buy This Year's Kisses here"
+[amazon link]: https://smile.amazon.com/dp/B076DRS2BV
+[apple link]: https://music.apple.com/us/artist/brooks-prumo-orchestra/1325021680
+[bandcamp link]: https://brooksprumoorchestra.bandcamp.com
+[google link]: https://play.google.com/store/music/artist?id=A4zfg7i2srsjxscjmtiv2ngpkwe
+[spotify link]: https://open.spotify.com/artist/1ELghsY8CRpT6q9YVCaYN4
